@@ -62,6 +62,22 @@ python main.py
 
 ![swagger_2](https://github.com/user-attachments/assets/a97ac322-fbf7-4233-b1d8-db7213359a87)
 
+### 🔗 Примеры запросов
+
+#### 🗝 curl
+
+```bash
+curl -X POST -F "file=@example.jpg" http://localhost:8000/moderate
+```
+
+#### 🗝 Postman
+1. Метод: POST
+2. URL: http://localhost:8000/moderate
+3. В Body выбрать form-data
+4. Ключ: file (тип — File), выбрать изображение
+5. Нажать Send
+
+
 ### 🔗 Примеры ответов
 
 #### 🟢 Безопасное изображение:
