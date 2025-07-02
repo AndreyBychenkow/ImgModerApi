@@ -58,6 +58,9 @@ python main.py
 | GET   | /           | Проверка работоспособности сервера        |
 | GET   | /health     | Проверка «здоровья» сервиса               |
 
+![swager](https://github.com/user-attachments/assets/a92780e4-9e9a-4b10-af1d-cfd169937bb5)
+
+![swagger_2](https://github.com/user-attachments/assets/a97ac322-fbf7-4233-b1d8-db7213359a87)
 
 ### 🔗 Примеры ответов
 
